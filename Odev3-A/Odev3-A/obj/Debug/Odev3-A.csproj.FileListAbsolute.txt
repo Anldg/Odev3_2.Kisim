@@ -1,0 +1,8 @@
+D:\Vektörel Ödevler\Odev3-A\Odev3-A\bin\Debug\Odev3-A.exe.config
+D:\Vektörel Ödevler\Odev3-A\Odev3-A\bin\Debug\Odev3-A.exe
+D:\Vektörel Ödevler\Odev3-A\Odev3-A\bin\Debug\Odev3-A.pdb
+D:\Vektörel Ödevler\Odev3-A\Odev3-A\obj\Debug\Odev3-A.csproj.AssemblyReference.cache
+D:\Vektörel Ödevler\Odev3-A\Odev3-A\obj\Debug\Odev3-A.csproj.SuggestedBindingRedirects.cache
+D:\Vektörel Ödevler\Odev3-A\Odev3-A\obj\Debug\Odev3-A.csproj.CoreCompileInputs.cache
+D:\Vektörel Ödevler\Odev3-A\Odev3-A\obj\Debug\Odev3-A.exe
+D:\Vektörel Ödevler\Odev3-A\Odev3-A\obj\Debug\Odev3-A.pdb
